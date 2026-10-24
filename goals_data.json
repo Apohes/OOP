@@ -1,0 +1,23 @@
+[
+    {
+        "type": "UrgentGoal",
+        "name": "путешествие ",
+        "target_amount": 500000.0,
+        "current_amount": 450000.0,
+        "deadline": "28.10.2026"
+    },
+    {
+        "type": "FinancialGoal",
+        "name": "машина ",
+        "target_amount": 2500000.0,
+        "current_amount": 1000000.0,
+        "deadline": "25.05.2027"
+    },
+    {
+        "type": "FinancialGoal",
+        "name": "квартира",
+        "target_amount": 15000000.0,
+        "current_amount": 5000000.0,
+        "deadline": "29.03.2027"
+    }
+]
